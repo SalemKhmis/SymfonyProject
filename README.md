@@ -1,2 +1,0 @@
-# symfonyProject
-E-commerce Website
